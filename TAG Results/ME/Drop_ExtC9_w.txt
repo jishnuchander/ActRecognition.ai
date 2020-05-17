@@ -1,0 +1,10 @@
+3	PO-Centre-Conn PO-Centre-Conn DR-SEast-Near 
+15	PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn DR-SWest-Near DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away 
+3	PO-SEast-Conn DR-SEast-Away DR-SEast-Near 
+6	PO-South-Conn PO-South-Conn PO-South-Conn PO-South-Conn PO-South-Conn DR-South-Away 
+13	PO-South-Conn PO-South-Conn PO-South-Conn PO-South-Conn PO-South-Conn DR-South-Near DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away 
+12	PO-South-Conn PO-South-Conn PO-South-Conn PO-South-Conn PO-SWest-Conn PO-SWest-Conn DR-SWest-Near DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away 
+3	PO-SWest-Conn PO-SWest-Conn DR-SWest-Near 
+19	PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn PO-East-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn PO-NEast-Conn DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away 
+18	PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn DR-SWest-Near DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away 
+12	PO-SEast-Conn PO-SEast-Conn PO-SEast-Conn PO-SEast-Conn PO-East-Conn PO-East-Conn PO-East-Conn PO-East-Conn PO-East-Conn PO-SEast-Conn DR-SEast-Near DR-SEast-Near 

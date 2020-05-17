@@ -1,0 +1,38 @@
+8	DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-West-Close DR-West-Close DR-West-Close 
+4	DR-West-Away DR-SWest-Away DR-West-Away DR-West-Away 
+7	DR-SEast-Away DR-East-Away PO-East-Conn DR-NEast-Away DR-NEast-Away DR-SEast-Away DR-SEast-Away 
+7	DR-East-Away DR-East-Away DR-East-Away DR-SEast-Away DR-East-Away DR-East-Away DR-East-Away 
+6	DR-SEast-Away DR-SEast-Away DR-East-Close DR-NEast-Close DR-NEast-Away DR-East-Away 
+7	DR-West-Away DR-West-Close DR-NWest-Close DR-West-Close DR-West-Away DR-West-Away DR-West-Away 
+12	DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-West-Away PO-West-Conn PO-West-Conn DR-SWest-Close DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-West-Away 
+6	DR-East-Close PO-East-Conn DR-East-Away DR-East-Close PO-East-Conn DR-East-Away 
+7	DR-West-Away DR-West-Away PO-West-Conn PO-West-Conn DR-West-Away DR-West-Away DR-West-Away 
+6	DR-West-Away DR-NWest-Away PO-NWest-Conn PO-NWest-Conn DR-West-Away DR-West-Away 
+7	DR-West-Away DR-West-Away DR-West-Close DR-West-Close DR-West-Close DR-West-Away DR-West-Away 
+8	DR-SEast-Away DR-SEast-Away DR-SEast-Close DR-SEast-Close PO-SEast-Conn PO-SEast-Conn PO-SEast-Conn DR-SEast-Away 
+9	DR-SEast-Away DR-SEast-Away DR-SEast-Close DR-SEast-Close DR-NEast-Close DR-East-Away DR-SEast-Away DR-SEast-Away DR-SEast-Away 
+8	DR-NEast-Away DR-NEast-Away DR-East-Close DR-East-Close DR-East-Close DR-East-Close DR-NEast-Away DR-NEast-Away 
+7	DR-NEast-Away DR-NEast-Away PO-NEast-Conn PO-East-Conn PO-East-Conn PO-NEast-Conn DR-NEast-Away 
+8	DR-NEast-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Close DR-East-Close DR-East-Away DR-East-Away 
+5	DR-NEast-Away DR-East-Away DR-NEast-Away DR-East-Away DR-East-Away 
+7	DR-NEast-Away DR-NEast-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away 
+7	DR-NEast-Away DR-East-Away DR-East-Away DR-NEast-Near DR-East-Near DR-East-Away DR-NEast-Away 
+6	DR-East-Away DR-SEast-Away PO-NEast-Conn PO-Centre-Conn PO-East-Conn DR-East-Away 
+7	DR-East-Away DR-NEast-Away DR-NEast-Away DR-NEast-Away DR-SEast-Close DR-SEast-Away DR-East-Away 
+9	DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away PO-SWest-Conn PO-West-Conn PO-SWest-Conn PO-SWest-Conn DR-SWest-Away 
+8	DR-SWest-Away DR-SWest-Away PO-SWest-Conn DR-West-Close DR-NWest-Close DR-West-Close DR-West-Away DR-West-Away 
+7	DR-West-Away DR-NWest-Away DR-NWest-Away DR-West-Away DR-West-Away DR-West-Away DR-West-Away 
+8	DR-West-Away DR-West-Away DR-NWest-Away DR-NWest-Close DR-West-Near DR-West-Close DR-West-Away DR-NWest-Away 
+8	DR-NWest-Away DR-NWest-Away DR-West-Away DR-NWest-Close DR-NWest-Away DR-West-Away DR-West-Away DR-West-Away 
+10	DR-NWest-Away DR-NWest-Away DR-NWest-Away PO-NWest-Conn PO-NWest-Conn PO-NWest-Conn PO-NWest-Conn PO-NWest-Conn DR-NWest-Close DR-NWest-Away 
+8	DR-West-Away DR-West-Away DR-West-Close DR-West-Close DR-West-Close DR-West-Close DR-West-Away DR-SWest-Away 
+8	DR-NWest-Away DR-NWest-Away DR-NWest-Away PO-West-Conn PO-SWest-Conn PO-SWest-Conn PO-SWest-Conn PO-West-Conn 
+9	DR-NWest-Away DR-West-Away DR-West-Away DR-West-Away DR-SWest-Away DR-SWest-Close DR-SWest-Away DR-SWest-Away DR-NWest-Away 
+7	DR-NWest-Away DR-NWest-Away DR-West-Away DR-NWest-Close DR-NWest-Close DR-NWest-Away DR-NWest-Away 
+9	DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away PO-West-Conn PO-West-Conn DR-West-Close DR-SWest-Close DR-SWest-Away 
+8	DR-NEast-Away DR-NEast-Away DR-NEast-Away DR-NEast-Away DR-NEast-Away DR-NEast-Away DR-NEast-Away DR-NEast-Away 
+8	DR-East-Away DR-NEast-Away DR-NEast-Away DR-NEast-Away DR-NEast-Close DR-NEast-Near DR-NEast-Away DR-NEast-Away 
+11	DR-East-Away DR-East-Away DR-NEast-Away PO-East-Conn PO-East-Conn PO-East-Conn DR-East-Close DR-NEast-Close DR-East-Close DR-East-Away DR-East-Away 
+9	DR-East-Away DR-East-Away DR-SEast-Away PO-SEast-Conn PO-SEast-Conn DR-NEast-Close PO-NEast-Conn DR-East-Away DR-East-Away 
+9	DR-West-Away DR-West-Away DR-West-Away DR-West-Away DR-West-Close DR-West-Close DR-NWest-Close DR-NWest-Away DR-SWest-Away 
+9	DR-West-Away DR-West-Away DR-West-Away DR-West-Away DR-SWest-Close PO-SWest-Conn DR-SWest-Close DR-SWest-Away DR-West-Away 

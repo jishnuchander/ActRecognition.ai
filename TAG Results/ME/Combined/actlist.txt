@@ -1,0 +1,11 @@
+Approach	10
+Carry	10
+Catch	10
+Collide	10
+Drop	10
+Follow	10
+Hold	10
+Kick	10
+Pickup	10
+Push	10
+Throw	10

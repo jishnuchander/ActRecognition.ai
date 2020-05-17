@@ -1,0 +1,20 @@
+7	DR-East-Away DR-SEast-Away PO-SEast-Conn DR-SEast-Away DR-SEast-Away DR-SEast-Away DR-SEast-Away 
+7	DR-West-Away DR-West-Away DR-West-Away PO-West-Conn DR-East-Close DR-East-Away DR-East-Away 
+6	DR-SEast-Away DR-SEast-Away DR-SEast-Away PO-SEast-Conn DR-SEast-Away DR-SEast-Away 
+9	DR-West-Away DR-West-Away PO-West-Conn PO-East-Conn DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away 
+13	DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away PO-NEast-Conn DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away 
+8	DR-East-Away DR-East-Away DR-East-Away PO-NEast-Conn DR-NEast-Away DR-NEast-Away DR-NEast-Away DR-NEast-Away 
+10	DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away PO-SEast-Conn PO-SEast-Conn DR-SEast-Away DR-SEast-Away DR-SEast-Away 
+14	DR-West-Away DR-West-Away DR-West-Away DR-West-Away DR-SWest-Away PO-South-Conn DR-SWest-Away DR-West-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away 
+11	DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away PO-South-Conn DR-West-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away 
+19	DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away PO-East-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn DR-SEast-Away DR-SEast-Away DR-SEast-Away DR-SEast-Away 
+7	DR-East-Away DR-SEast-Away PO-SEast-Conn DR-SEast-Away DR-SEast-Away DR-SEast-Away DR-SEast-Away 
+7	DR-West-Away DR-West-Away DR-West-Away PO-West-Conn DR-East-Close DR-East-Away DR-East-Away 
+6	DR-SEast-Away DR-SEast-Away DR-SEast-Away PO-SEast-Conn DR-SEast-Away DR-SEast-Away 
+9	DR-West-Away DR-West-Away PO-West-Conn PO-East-Conn DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away 
+13	DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away PO-NEast-Conn DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away 
+8	DR-East-Away DR-East-Away DR-East-Away PO-NEast-Conn DR-NEast-Away DR-NEast-Away DR-NEast-Away DR-NEast-Away 
+10	DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away PO-SEast-Conn PO-SEast-Conn DR-SEast-Away DR-SEast-Away DR-SEast-Away 
+14	DR-West-Away DR-West-Away DR-West-Away DR-West-Away DR-SWest-Away PO-South-Conn DR-SWest-Away DR-West-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away 
+11	DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away PO-South-Conn DR-West-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away DR-SWest-Away 
+19	DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away DR-East-Away PO-East-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn PO-Centre-Conn DR-SEast-Away DR-SEast-Away DR-SEast-Away DR-SEast-Away 

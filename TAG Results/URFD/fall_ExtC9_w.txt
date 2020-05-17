@@ -1,0 +1,30 @@
+16	DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-SWest-Away PO-SWest-Conn DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away 
+11	DR-South-Away DR-South-Away DR-South-Away DR-SWest-Away PO-SWest-Conn DR-SWest-Near DR-South-Away DR-SWest-Near DR-West-Away DR-West-Away DR-West-Away 
+22	DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Near DR-South-Away DR-South-Away DR-South-Away DR-South-Near DR-South-Away PO-SWest-Conn DR-West-Away PO-Centre-Conn PO-Centre-Conn 
+10	PO-South-Conn PO-SWest-Conn DR-SWest-Away DR-South-Away PO-SWest-Conn DR-West-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away 
+16	DR-South-Away DR-South-Away DR-SWest-Away DR-South-Away DR-SWest-Away DR-South-Near DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-SEast-Near DR-NEast-Away PO-NEast-Conn PO-NEast-Conn DR-NEast-Away DR-NEast-Away 
+10	PO-South-Conn DR-South-Near DR-SWest-Near DR-SWest-Near PO-SWest-Conn PO-West-Conn PO-Centre-Conn PO-Centre-Conn PO-West-Conn PO-West-Conn 
+16	DR-SEast-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-SWest-Away DR-SWest-Away PO-South-Conn PO-SWest-Conn PO-NWest-Conn PO-NWest-Conn DR-NWest-Near DR-NWest-Near 
+10	DR-South-Away DR-South-Away PO-South-Conn PO-SWest-Conn PO-South-Conn PO-South-Conn PO-South-Conn PO-West-Conn PO-West-Conn PO-West-Conn 
+19	DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Near DR-South-Away DR-South-Away DR-South-Away DR-SWest-Away PO-South-Conn DR-South-Away DR-South-Away DR-South-Away DR-West-Near PO-NWest-Conn DR-NWest-Away DR-NWest-Away 
+13	DR-South-Away DR-South-Away DR-South-Away PO-South-Conn PO-SWest-Conn PO-South-Conn PO-SWest-Conn DR-West-Away PO-West-Conn DR-NWest-Near PO-West-Conn PO-West-Conn PO-West-Conn 
+13	DR-SWest-Near DR-South-Away DR-South-Near DR-South-Away DR-South-Near DR-SWest-Near PO-SWest-Conn PO-SWest-Conn PO-SWest-Conn PO-West-Conn PO-Centre-Conn DR-Centre-Near DR-Centre-Near 
+11	DR-South-Away DR-South-Near PO-South-Conn PO-South-Conn PO-South-Conn PO-SWest-Conn PO-SWest-Conn PO-West-Conn PO-West-Conn PO-West-Conn PO-West-Conn 
+9	DR-South-Away DR-South-Away DR-South-Away DR-South-Near DR-South-Away PO-South-Conn PO-South-Conn PO-West-Conn DR-West-Away 
+7	DR-South-Away DR-SWest-Away PO-SWest-Conn PO-SWest-Conn PO-SWest-Conn DR-West-Away DR-West-Away 
+8	DR-South-Near DR-South-Away DR-South-Away DR-South-Near PO-South-Conn PO-Centre-Conn PO-NWest-Conn PO-NWest-Conn 
+6	DR-South-Away PO-South-Conn PO-SWest-Conn PO-SWest-Conn PO-SWest-Conn DR-West-Away 
+10	DR-South-Away DR-South-Away DR-South-Away DR-South-Near DR-South-Away DR-South-Away PO-South-Conn DR-South-Near PO-Centre-Conn DR-North-Near 
+7	DR-South-Away DR-South-Away PO-SWest-Conn PO-SWest-Conn DR-West-Away DR-West-Away DR-West-Away 
+10	DR-South-Away DR-South-Away DR-South-Away DR-South-Away PO-South-Conn PO-East-Conn PO-NEast-Conn PO-NEast-Conn PO-NEast-Conn PO-NEast-Conn 
+11	DR-South-Away DR-South-Away DR-SWest-Near PO-South-Conn DR-South-Away PO-SWest-Conn PO-West-Conn PO-West-Conn PO-SWest-Conn DR-SWest-Near DR-SWest-Near 
+6	DR-South-Away DR-South-Away DR-South-Away DR-South-Away PO-South-Conn DR-NEast-Away 
+6	DR-South-Away DR-South-Away DR-South-Near DR-SWest-Away DR-NWest-Away DR-NWest-Away 
+8	DR-South-Away DR-South-Away DR-South-Away DR-South-Near PO-South-Conn PO-SEast-Conn PO-NEast-Conn PO-North-Conn 
+6	DR-South-Away PO-South-Conn PO-SWest-Conn DR-SWest-Near DR-West-Away DR-West-Away 
+9	DR-South-Away DR-South-Away DR-South-Away DR-South-Near PO-South-Conn DR-South-Near DR-South-Near DR-Centre-Near PO-North-Conn 
+7	DR-South-Near PO-SWest-Conn DR-SWest-Near PO-South-Conn DR-West-Away PO-NWest-Conn PO-NWest-Conn 
+10	DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Near DR-South-Near PO-South-Conn PO-North-Conn PO-North-Conn 
+7	DR-South-Away DR-South-Away PO-South-Conn PO-SWest-Conn PO-South-Conn PO-Centre-Conn DR-NWest-Near 
+10	DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Away DR-South-Near DR-South-Near DR-Centre-Near DR-North-Near DR-North-Near 
+7	DR-South-Away DR-South-Away DR-SWest-Away DR-SWest-Near DR-South-Near PO-Centre-Conn PO-NWest-Conn 

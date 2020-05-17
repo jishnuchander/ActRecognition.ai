@@ -1,0 +1,8 @@
+1Approaching	42
+2Departing	43
+3Pushing	40
+4Kicking	41
+5Punching	18
+6Exchanging	21
+7Hugging	39
+8Handshaking	38

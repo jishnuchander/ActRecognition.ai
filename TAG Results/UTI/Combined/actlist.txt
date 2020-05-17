@@ -1,0 +1,5 @@
+HandShaking	10
+Hugging	10
+Kicking	10
+Punching	10
+Pushing	10

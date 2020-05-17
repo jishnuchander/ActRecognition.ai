@@ -1,0 +1,10 @@
+13	DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-West-Away DR-SWest-Away PO-SWest-Conn PO-NWest-Conn DR-West-Away DR-SWest-Away DR-West-Away DR-West-Away DR-West-Away 
+10	DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away PO-Centre-Conn DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away 
+11	DR-NWest-Away DR-NWest-Away DR-West-Away DR-West-Away PO-West-Conn DR-NWest-Close DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away 
+13	DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-West-Away DR-West-Away PO-West-Conn DR-West-Away DR-West-Away DR-West-Away DR-West-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away 
+9	DR-NWest-Away DR-NWest-Away DR-NWest-Away PO-NWest-Conn DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away 
+10	DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-West-Away PO-West-Conn DR-SWest-Away DR-West-Away DR-West-Away DR-West-Away 
+10	DR-West-Away DR-West-Away DR-NWest-Away DR-West-Away PO-NWest-Conn PO-NWest-Conn DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away 
+11	DR-West-Away DR-West-Away DR-SWest-Away DR-West-Away PO-West-Conn PO-West-Conn DR-West-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away 
+10	DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-West-Away PO-West-Conn PO-West-Conn DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-NWest-Away 
+10	DR-NWest-Away DR-NWest-Away DR-NWest-Away DR-West-Away DR-NWest-Away PO-NWest-Conn DR-NWest-Away DR-SWest-Away DR-West-Away DR-West-Away 
