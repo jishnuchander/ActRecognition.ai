@@ -1,0 +1,11 @@
+Pickup2_T3L:	20
+Pickup2_T4L:	20
+Pickup2_T5L:	20
+Pickup2_T6L:	20
+Pickup4_T1L:	12
+Pickup4_T2L:	16
+Pickup4_T3L:	15
+Pickup4_T4L:	20
+Pickup4_T5L:	13
+Pickup4_T7L:	18
+Pickup7_T1L:	18

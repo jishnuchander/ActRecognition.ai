@@ -1,0 +1,10 @@
+Catch2_T21L:	16
+Catch2_T31L:	15
+Catch5_T21L:	15
+Catch6_T11L:	24
+Catch7_T11D:	10
+Catch8_T11L:	14
+Catch9_T21L:	20
+Catch9_T31L:	14
+Catch9_T41L:	16
+Catch9_T51L:	20

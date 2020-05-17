@@ -1,0 +1,10 @@
+Kick1_T11L:	26
+Kick3_T12L:	23
+Kick3_T21L:	12
+Kick3_T31L:	13
+Kick3_T41L:	12
+Kick3_T42L:	13
+Kick4_T11L:	14
+Kick4_T21L:	14
+Kick6_T11L:	14
+Kick7_T11L:	14

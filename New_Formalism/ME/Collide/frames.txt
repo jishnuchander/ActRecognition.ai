@@ -1,0 +1,10 @@
+Collide2_T11D:	11
+Collide3_T11L:	8
+Collide4_T11L:	20
+Collide4_T22L:	14
+Collide4_T31L:	22
+Collide4_T32L:	17
+Collide4_T41L:	17
+Collide6_T11L:	20
+Collide6_T21L:	16
+Collide6_T51L:	19

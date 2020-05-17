@@ -1,0 +1,10 @@
+Throw3_T11D:	11
+Throw4_T11L:	16
+Throw4_T12L:	11
+Throw4_T21L:	14
+Throw4_T22L:	10
+Throw5_T11L:	15
+Throw7_T11L:	14
+Throw7_T12L:	15
+Throw7_T31L:	19
+Throw7_T32L:	15

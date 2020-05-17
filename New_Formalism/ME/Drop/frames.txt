@@ -1,0 +1,10 @@
+Drop1_T11L:	4
+Drop2_T11L:	15
+Drop4_T11L:	3
+Drop4_T21L:	22
+Drop4_T31L:	13
+Drop4_T52L:	12
+Drop4_T61L:	3
+Drop5_T11L:	20
+Drop9_T11L:	18
+Drop9_T42L:	12

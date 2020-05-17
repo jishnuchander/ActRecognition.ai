@@ -1,0 +1,12 @@
+Hold2_T1L:	17
+Hold3_T1L:	14
+Hold3_T3L:	14
+Hold3_T5L:	14
+Hold3_T7L:	14
+Hold3_T8L:	14
+Hold8_T2L:	15
+Hold8_T3L:	17
+Hold8_T4L:	23
+Hold8_T6L:	17
+Hold8_T7L:	16
+Hold8_T8L:	12

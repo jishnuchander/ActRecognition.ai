@@ -1,0 +1,10 @@
+Follow10_T1L:	10
+Follow1_T4L:	14
+Follow1_T8L:	40
+Follow2_T5L:	19
+Follow2_T6L:	22
+Follow2_T7L:	26
+Follow2_T8L:	24
+Follow7_T2L:	21
+Follow7_T5L:	24
+Follow2_T1L:	23

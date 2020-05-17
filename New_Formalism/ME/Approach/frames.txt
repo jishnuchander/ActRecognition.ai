@@ -1,0 +1,10 @@
+Approach1_T11D:	6
+Approach2_T13L:	33
+Approach2_T21L:	24
+Approach2_T31L:	33
+Approach2_T41L:	13
+Approach3_T11L:	20
+Approach7_T12L:	18
+Approach7_T32L:	19
+Approach9_T51L:	23
+Approach10_T11L: 26

@@ -1,0 +1,10 @@
+Push1_T1L:	19
+Push3_T1L:	18
+Push3_T2L:	19
+Push3_T5L:	15
+Push3_T7L:	19
+Push3_T8L:	18
+Push6_T1L:	25
+Push6_T2L:	34
+Push6_T3L:	24
+Push8_T1L:	27

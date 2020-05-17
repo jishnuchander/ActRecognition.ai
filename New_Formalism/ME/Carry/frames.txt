@@ -1,0 +1,10 @@
+Carry1_T11D:	29
+Carry2_T11L:	19
+Carry2_T21L:	20
+Carry2_T32L:	34
+Carry2_T41L:	21
+Carry6_T12L:	15
+Carry6_T21L:	15
+Carry6_T32L:	18
+Carry8_T12L:	18
+Carry8_T32L:	14
