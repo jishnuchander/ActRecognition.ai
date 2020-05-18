@@ -2,7 +2,7 @@
 
 Human Activity Recognition from videos using Deep Learning on Graphically Structured Data
 
-Code TAG - Contains the necessary MATLAB files to create a TAG from tracking data of videos 
+Code TAG - Contains the necessary MATLAB files to create a TAG from tracking data of videos <br />
 TAG Results - Contains the results of TAG Code on four datasets - ME, SBUKI, URFD, UTI 
 TAG2Vec.ipynb - Converts the TAG model into vectorized format to use as input to DL model 
 DLModel.ipynb - LSTM based architecture for Human Activity Recognition  
